@@ -1,1 +1,1 @@
-Pytorch aug generator
+Script for augmented image generation.
